@@ -1,4 +1,4 @@
-##  [Click Here](eBay://launch?itm=360703170135)
+  [Click Here](eBay://launch?itm=360703170135)
 
 You can use the [editor on GitHub](https://github.com/jravi/appredirection/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
